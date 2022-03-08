@@ -3,7 +3,7 @@ I was able to take this networking project and by using Python and its networkin
 such as sockets I was able to create a chat room between Clients and a Server. 
 Where the users can send messages back and forth to each other.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/95dCHUl4T7k)
 
 # Network Communication
 
@@ -11,10 +11,10 @@ The program is based on a client/server architecture using sockets and I used TC
 
 # Development Environment
 
-*vscode
-*Python
-*Sockets
-*threading
+* vscode
+* Python
+* Sockets
+* cd threading
 
 # Useful Websites
 
