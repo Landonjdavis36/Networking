@@ -1,6 +1,7 @@
 # Overview
-I was able to take this networking project and by using Python and its networking tools/
-such as sockets I was able to create a chat room between Clients and a Server. Where the users can send messages back and forth to each other.
+I was able to take this networking project and by using Python and its networking tools
+such as sockets I was able to create a chat room between Clients and a Server. 
+Where the users can send messages back and forth to each other.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
